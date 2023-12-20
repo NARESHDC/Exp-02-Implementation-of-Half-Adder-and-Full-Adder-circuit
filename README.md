@@ -90,5 +90,4 @@ ii)FULL ADDER:
 
 
 ### Result:
-
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
