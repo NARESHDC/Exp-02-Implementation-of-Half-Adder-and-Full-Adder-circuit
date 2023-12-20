@@ -86,10 +86,9 @@ ii)FULL ADDER:
 
 ![Screenshot 2023-12-20 175352](https://github.com/NARESHDC/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149348388/3f1945a4-d4b0-4314-b8a8-f0b899303f8f)
 
-##RESULT
-
-To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
 
 
 ### Result:
+
+To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
